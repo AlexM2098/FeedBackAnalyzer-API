@@ -4,6 +4,7 @@ FeedbackAnalyzer is a Flask-based API that classifies customer feedback into var
 
 ## Project Structure
 
+```
 FeedbackAnalyzer/
 │
 ├── app/
@@ -23,7 +24,7 @@ FeedbackAnalyzer/
 ├── config.py
 ├── run.py
 └── requirements.txt
-
+```
 
 ## Setup and Installation
 
